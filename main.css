@@ -1,0 +1,22 @@
+table{
+    background: solid white;
+    color: solid black;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+ td{
+     background: white;
+     border: 1px solid black;
+ }
+ th{
+     background: white;
+     border: 1px solid black;
+ }
+ .colored{
+     background: rgb(252, 223, 196);
+     color:black;;
+ }
+ li{
+     color: solid black;
+     font-family: Roboto;
+ }
